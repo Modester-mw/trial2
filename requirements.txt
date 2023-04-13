@@ -1,5 +1,5 @@
 absl-py==1.4.0
-aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1676292815521/work
+aiohttp==3.8.4
 aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.11.1
