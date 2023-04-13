@@ -1,6 +1,6 @@
 absl-py==1.4.0
 aiohttp==3.8.4
-aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
+aiosignal==1.3.1
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.11.1
 anaconda-navigator==2.4.0
@@ -36,6 +36,9 @@ black @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d0nh
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 bokeh @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4689ce87-cfaa-4ded-b2ca-a10b180c8012082opaxd/croots/recipe/bokeh_1658136657265/work
 boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
+boto==2.49.0
+boto3==1.26.113
+botocore==1.29.113
 Bottleneck @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_29949159-f86f-474b-bc1f-aaa1e0e222b4ofusifik/croots/recipe/bottleneck_1657175564045/work
 brotlipy==0.7.0
 cachetools==5.3.0
@@ -293,6 +296,7 @@ Rtree @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_63tc
 ruamel-yaml-conda @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bam8guxx00/croot/ruamel_yaml_1667489733295/work
 ruamel.yaml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7de1zqcaou/croot/ruamel.yaml_1666304553877/work
 ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7s0zxy4t2/croot/ruamel.yaml.clib_1666302244557/work
+s3transfer==0.6.0
 scikit-image @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c5gfw0_uou/croot/scikit-image_1669241745874/work
 scikit-learn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a65wfgtmmc/croot/scikit-learn_1676911655056/work
 scipy==1.10.0
